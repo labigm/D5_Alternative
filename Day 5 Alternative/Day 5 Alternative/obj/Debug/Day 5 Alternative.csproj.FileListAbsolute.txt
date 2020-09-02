@@ -1,0 +1,7 @@
+C:\Users\bsalb\Desktop\D5\Day 5 Alternative\Day 5 Alternative\bin\Debug\Day 5 Alternative.exe.config
+C:\Users\bsalb\Desktop\D5\Day 5 Alternative\Day 5 Alternative\bin\Debug\Day 5 Alternative.exe
+C:\Users\bsalb\Desktop\D5\Day 5 Alternative\Day 5 Alternative\bin\Debug\Day 5 Alternative.pdb
+C:\Users\bsalb\Desktop\D5\Day 5 Alternative\Day 5 Alternative\obj\Debug\Day 5 Alternative.csprojAssemblyReference.cache
+C:\Users\bsalb\Desktop\D5\Day 5 Alternative\Day 5 Alternative\obj\Debug\Day 5 Alternative.csproj.CoreCompileInputs.cache
+C:\Users\bsalb\Desktop\D5\Day 5 Alternative\Day 5 Alternative\obj\Debug\Day 5 Alternative.exe
+C:\Users\bsalb\Desktop\D5\Day 5 Alternative\Day 5 Alternative\obj\Debug\Day 5 Alternative.pdb
